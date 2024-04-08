@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "100daysofpythonmaybe"
+version = "0.1.0"
+description = "maybe trying 100 days of python course on Udemy"
+authors = ["Anne Salminen <amauran@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
